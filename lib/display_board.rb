@@ -4,4 +4,3 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 disply_board(board)
-
