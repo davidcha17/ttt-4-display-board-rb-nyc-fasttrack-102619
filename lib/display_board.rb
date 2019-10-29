@@ -3,10 +3,5 @@
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def disply_board()
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-end 
+disply_board(board)
+
